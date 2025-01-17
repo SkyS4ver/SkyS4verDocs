@@ -1,6 +1,6 @@
 # SkySaver docs
 
-## 🚀 Project
+## ✈️ Project
 This is the documentation part of SkySaver.
 
 ## 🧑‍💻 Credits
