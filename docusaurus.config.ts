@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'SkySaver',
   tagline: 'Airline Ticket Price Analysis to Find the Best Time to Buy',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/SkySaver2.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
