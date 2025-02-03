@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Step 2 : Creation of a Lambda Layer
+# Step 2 : Creation of a zip for the Lambda Layer
 
 # First question is why ?
 Advantages of using Layers:\
