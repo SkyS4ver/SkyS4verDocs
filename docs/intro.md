@@ -25,5 +25,6 @@ Here is an rapid overview of our AWS components and their interactions :
 - <kbd>**QuickSight**</kbd> → Datavisualization to highlight trends ;
 - <kbd>**SNS with Lambda**</kbd> → Automatic notifications.
 
+<!-- TODO - ADD ARCHITECTURE SCHEMA -->
 
 
