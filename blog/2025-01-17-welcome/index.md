@@ -5,11 +5,11 @@ authors: [nico]
 tags: [SkySaver, Welcome]
 ---
 
-✈️ <strong>The birth of SkySaver</strong> ✈️
+## ✈️ <strong>The birth of SkySaver</strong> ✈️
 
 <!-- truncate -->
 
-## Hi everyone !
+Hi everyone !
 
 First post and surely not the last.\
 **[Théo](https://github.com/shannorr)** and **[I](https://github.com/nicolasjp)** started this project because we wanted to improve our skills on AWS.
